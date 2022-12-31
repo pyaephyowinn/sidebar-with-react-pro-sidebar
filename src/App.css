@@ -1,0 +1,17 @@
+.container {
+  height: 100vh;
+  display: flex;
+}
+
+.sidebar {
+  height: 100vh;
+}
+
+.menu-item {
+  text-align: center;
+}
+
+.header h1 {
+  color: #FFFFFF;
+  margin-inline-start: 5rem;
+}
